@@ -1,3 +1,3 @@
 # Renaming issue Colibri
 
-I have the feeling if i rename an Repo, 
+I have the feeling when i rename an Repo, Colibri 
